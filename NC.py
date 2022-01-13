@@ -1531,33 +1531,19 @@ def usgeaseets():
 
 def usge():
     usgeaseets()
-    username = input("username:")
-if username == "FahriCT":
-	print("Username Berhasil Dimasukan")
-	time.sleep(1)
-else:
-	print("username salah")
-	time.sleep(1000)
-password = input("password:")
-if password == "ByFahriCT":
-	print("Password Berhasil")
-	time.sleep(1)
-else:
-	print("Password Salah")
-	time.sleep(10000000)
-    print('╔═╗─╔╗───────────╔╗')
-    print('║║╚╗║║──────────╔╝╚')
-    print('║╔╗╚╝╠╗╔╦══╦══╦═╬╗╔╬══╦═╦══')
-    print('║║╚╗║║║║║══╣╔╗║╔╗╣║║╔╗║╔╣╔╗║')
-    print('║║─║║║╚╝╠══║╔╗║║║║╚╣╔╗║║║╔╗║   ')
-    print('╚╝─╚═╩══╩══╩╝╚╩╝╚╩═╩╝╚╩╝╚╝╚╝')
-    print('  ======MⷨAͣDͩEͤ ВⷡY   FAͣнⷩRͬIͥCͨᴛⷮ=====')
-    print('                         ╔═╗────╔╗')
-    print('                         ║╔╬═╦═╦╣╚╦╦╦╦╦╦╗')
-    print('                         ║╚╣╩╣║║║╔╣║║╔╣║║')
-    print('                         ╚═╩═╩╩═╩═╩═╩╝╠╗║')
-    print('                           ─────────────╚═╝')
-    print(' You Need To Join Gc To See Methods')
+    print("╔═╗─╔╗───────────╔╗")
+    print("║║╚╗║║──────────╔╝╚')
+    print("║╔╗╚╝╠╗╔╦══╦══╦═╬╗╔╬══╦═╦══")
+    print("║║╚╗║║║║║══╣╔╗║╔╗╣║║╔╗║╔╣╔╗║")
+    print("║║─║║║╚╝╠══║╔╗║║║║╚╣╔╗║║║╔╗║   ")
+    print("╚╝─╚═╩══╩══╩╝╚╩╝╚╩═╩╝╚╩╝╚╝╚╝")
+    print("  ======MⷨAͣDͩEͤ ВⷡY   FAͣнⷩRͬIͥCͨᴛⷮ=====")
+    print("                         ╔═╗────╔╗")
+    print("                         ║╔╬═╦═╦╣╚╦╦╦╦╦╦╗")
+    print("                         ║╚╣╩╣║║║╔╣║║╔╣║║")
+    print("                         ╚═╩═╩╩═╩═╩═╩╝╠╗║")
+    print("                           ─────────────╚═╝")
+    print(" You Need To Join Gc To See Methods")
 
 
 def makefile(text):
