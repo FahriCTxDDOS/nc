@@ -4,3 +4,4 @@ socks
 cfscrape
 icmplib
 scapy
+colorama
