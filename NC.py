@@ -1532,7 +1532,6 @@ def usgeaseets():
 
 def usge():
     usgeaseets()
-       os.system("cls || clear")
     print(fr"""
     ╔═╗─╔╗───────────╔╗
     ║║╚╗║║──────────╔╝╚
